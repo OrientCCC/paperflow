@@ -1,7 +1,7 @@
 # PaperFlow
 
 PaperFlow is a production-oriented batch downloader that wraps
-[`pypaperretriever`](https://pypi.org/project/pypaperretriever/) with extra guardrails for
+[`PyPaperRetriever`](https://github.com/josephisaacturner/pypaperretriever) with extra guardrails for
 high-volume paper retrieval workflows. It adds configuration management, resilient retry
 logic, progress checkpoints, logging, and flexible file naming so teams can automate PDF
 collection from heterogeneous metadata sources.
