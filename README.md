@@ -36,6 +36,14 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+Or with Conda:
+
+```bash
+conda create -n paperflow python=3.10 -y
+conda activate paperflow
+pip install -r requirements.txt
+```
+
 ## Input Expectations
 
 The input spreadsheet must contain, at minimum:
