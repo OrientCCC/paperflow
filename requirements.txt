@@ -1,0 +1,3 @@
+pypaperretriever
+pandas
+openpyxl
